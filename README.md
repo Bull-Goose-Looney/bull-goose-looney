@@ -1,0 +1,6 @@
+- Hi, my name is Zachariah (Zach) Griffith
+- I'm interested in Computer Systems and Aerospace
+- I'm a current Student at University of Colorado - Boulder
+- Pursuing degree in Computer Science
+- I'm currently looking for internships for Summer 2022
+- You can reach me at griffith.zach13@gmail.com
