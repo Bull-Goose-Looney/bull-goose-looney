@@ -1,6 +1,2 @@
-- Hi, my name is Zachariah (Zach) Griffith
-- I'm interested in Software Development
-- I'm a current Student at University of Colorado - Boulder
-- Pursuing degree in Computer Science
-- Graduation Date: December 2022
+- Hi, my name is Zach Griffith
 - You can reach me at griffith.zach13@gmail.com
